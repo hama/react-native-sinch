@@ -1,4 +1,6 @@
 # react-native-sinch
+[![npm version](https://badge.fury.io/js/react-native-sinch.svg)](https://badge.fury.io/js/react-native-sinch)
+<br>
 Sinch Verification for react native. http://www.sinch.com
 
 https://github.com/kevinresol/react-native-sinch-verification  is not working now , so i write the new one.
