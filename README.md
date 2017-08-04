@@ -38,6 +38,7 @@ repositories {
 
 
 </li>
+<li>require the permissions as specified <a href="https://www.sinch.com/docs/verification/android/#permissions">here</a></li>
 </ol>
 
 #Usage
