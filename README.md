@@ -22,7 +22,7 @@ pod install
 </code>
 <h4>Android</h4>
 <ol>
-<li>cp node_modules/react-native-sinch/android/libs/sinch-android-verification-1.4.1.aar android/app/libs/</li>
+<li><code>cp node_modules/react-native-sinch/android/libs/sinch-android-verification-1.4.1.aar android/app/libs/</code></li>
 <li>edit android/app/build.gradle 
 
 <code><br>
